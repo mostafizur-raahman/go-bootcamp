@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains a summary of key concepts and topics covered in the Golang Bootcamp offered by VivaSoft Academy. It also includes a curated list of interview questions to help you prepare for Golang-related job interviews.
+This repository contains a summary of key concepts and topics covered in the Golang Bootcamp. It also includes a curated list of interview questions to help you prepare for Golang-related job interviews.
 
 ### Key Topics Covered
 
