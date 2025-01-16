@@ -113,7 +113,3 @@ Feel free to contribute to this repository by:
 -   Adding more detailed explanations to the topics.
 -   Providing additional interview questions.
 -   Submitting sample Go programs for practice.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
