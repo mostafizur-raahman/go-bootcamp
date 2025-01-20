@@ -49,4 +49,7 @@ func main() {
 
 	fmt.Println(resOfSum)
 
+	// channel := communicating between goroutines
+	// A channel is a type of Go data structure that provides a way to pass values of a particular type from one goroutine to another.
+
 }
