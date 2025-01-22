@@ -46,7 +46,7 @@ func main() {
 	// }
 
 	// short cut
-
+	// if file is large then we will not use that
 	data, err := os.ReadFile("example.txt")
 
 	if err != nil {
