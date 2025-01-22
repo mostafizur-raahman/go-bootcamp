@@ -57,7 +57,7 @@ func main() {
 
 	// read folders
 
-	dir, err := os.Open("../") // current folder
+	dir, err := os.Open("../") // current folder if we use (".")
 
 	if err != nil {
 		panic(err)
