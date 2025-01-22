@@ -31,7 +31,6 @@ func main() {
 		wg.Add(1)
 		go count.incrementByOne(&wg)
 	}
-
 	wg.Wait()
 
 	fmt.Println(count.cnt)
